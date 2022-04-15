@@ -1,2 +1,2 @@
-# mathone
- made in JS, HTML and CSS
+# README
+<p>This was one of my very first programs that i got learning JS</p>
